@@ -10,7 +10,7 @@
 ## 1. Operational Challenge & Ecosystem Architecture:
 
 ### Baseline State & Operational Gaps:
-During the initial formation of the CCOR India 2LOD M&T IA team, the organization faced severe operational friction and compliance exposure:
+During the initial formation of the CCOR India 2LOD M&T IA team, the organisation faced severe operational friction and compliance exposure:
 * **Unstructured Delivery Tracking:** Project allocations, team capacity, and execution statuses were managed across disjointed SharePoint lists and informal verbal updates, leading to constant debates among IA leads during status reviews.
 * **Information Security (IS) Governance Deficits:** Multiple automation scripts and analytics tools—including legacy dashboards transitioned from US teams—lacked formal registration on the Firmwide IS Tool Inventory, missing mandatory System Design Documents (SDDs), Business Requirement Documents (BRDs), and IS certification.
 * **Invisible Analytics:** Ad-hoc data requests, custom Alteryx scripts, and recurring reporting deliverables produced by the analytics team lacked central leadership visibility, preventing accurate resource modelling.
@@ -60,7 +60,7 @@ To resolve these challenges, a multi-source automated governance ecosystem was e
 
 ### Core Tooling:
 * **ETL & Data Transformation:** Alteryx Designer (Direct SQL, Multi-Source Joins, Rule Engines)
-* **Visualization & Executive Reporting:** Tableau Server/ Desktop (Interactive 5-Tab Suite)
+* **Visualisation & Executive Reporting:** Tableau Server/ Desktop (Interactive 5-Tab Suite)
 * **Project Tracking & Agile SDLC:** JIRA (Database Extracts)
 * **Operational Repositories:** SharePoint Online Lists (Reporting Book of Work)
 
@@ -125,8 +125,8 @@ To resolve these challenges, a multi-source automated governance ecosystem was e
 
 | Performance Metric | 🛑 Baseline State (Pre-Ecosystem) | 🎯 Post-Deployment State (Project 06) | 💡 Strategic Value |
 | --- | --- | --- | --- |
-| **Tracking Framework** | Fragmented SharePoint lists & verbal reviews | **Centralized JIRA & Tableau 5-Tab Suite** | Objective capacity planning and transparent BoW |
-| **Tableau Infrastructure** | Outdated, fragmented dashboard framework | **Centralized, Sustainable Server Framework** | Long-term scalability & automated delivery |
+| **Tracking Framework** | Fragmented SharePoint lists & verbal reviews | **Centralised JIRA & Tableau 5-Tab Suite** | Objective capacity planning and transparent BoW |
+| **Tableau Infrastructure** | Outdated, fragmented dashboard framework | **Centralised, Sustainable Server Framework** | Long-term scalability & automated delivery |
 | **Firmwide IS Compliance** | Unregistered scripts & uncertified US tools | **100% IS Registered & Certified Portfolio** | Zero regulatory compliance or security exposure |
 | **Documentation Rate** | Missing BRDs/SDDs for inherited tools | **100% Reverse-Engineered Artifact Compliance** | Full audit trail and institutional continuity |
 | **Reporting SLA Tracking** | Informal updates via email/chat | **Automated SLA Tracking & Direct Link Repository** | Instant executive visibility and self-service |
@@ -135,7 +135,7 @@ To resolve these challenges, a multi-source automated governance ecosystem was e
 
 ## Key Takeaways & Leadership Impact:
 
-* **Proactive Ownership:** Recognized operational and governance gaps upon joining the team and independently designed a scalable ecosystem without waiting for external mandates.
+* **Proactive Ownership:** Recognised operational and governance gaps upon joining the team and independently designed a scalable ecosystem without waiting for external mandates.
 * **Enterprise Scaling:** Applied prior experience managing 800+ applications from WPO to establish robust, audit-ready governance across a newly formed 2LOD M&T India team.
 * **T-Shaped Execution:** Combined high-level strategic alignment (stakeholder management, IS compliance, capacity planning) with deep technical execution (Alteryx ETL, JIRA integration, Tableau architecture).
 
