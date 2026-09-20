@@ -56,6 +56,8 @@ To deliver near real-time operational health tracking while safeguarding live pr
 
 ```
 
+![iTrack Tech-Ops Data Staging & Architecture](./Assets/08-iTrack-Architecture-Pipeline.png)
+
 ### Architecture & Responsibility Breakdown:
 
 1. **Tech-Managed Reporting Staging Layer:** Core Technology engineered the underlying staging pipeline, porting data from live production databases into a dedicated, read-only SQL reporting platform. This ensured reporting users never touched live production data and eliminated operational locks.
@@ -65,6 +67,8 @@ To deliver near real-time operational health tracking while safeguarding live pr
 
 ## 3. The 5 Executive Dashboard Views & Analytical Facets:
 Designed from the perspective of Operations Managers, Team Leads, and C-Suite Executives, **iTrack** provides interactive, near real-time operational intelligence across 5 curated views:
+
+![iTrack Tableau Executive Dashboard Suite](./Assets/08-iTrack-Executive-Dashboard-Suite.png)
 
 ### View 1: Near Real-Time Volume & Capacity Monitor:
 * **Core Metrics:** Inflow volume, processed volume, open pending queue, intra-day SLA attainment %.
