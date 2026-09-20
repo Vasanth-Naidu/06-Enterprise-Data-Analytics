@@ -55,3 +55,8 @@
 * ⚙️ **[CCOR 2LOD M&T Intelligent Automation & Audit Analytics Control Ecosystem](./06-CCOR-2LOD-Intelligent-Automation-Ecosystem/Case-Study.md)**  
   *Architected a multi-source Alteryx ETL and 5-tab Tableau Executive Control Suite to ring-fence the full IA Automation and Analytics Book of Work for CCOR 2LOD M&T India. Standardised JIRA tracking, deployed predictive developer capacity modelling, migrated legacy assets to Tableau Server, and enforced 100% Firmwide IS registration and artifact compliance.* <br>
   `Alteryx` • `Tableau Server` • `JIRA API` • `Firmwide IS Governance` • `Capacity Planning` • `Jaro-Winkler Fuzzy Matching`
+
+* 📈 **[Project 08: iTrack — Near Real-Time Operational Health & Productivity Analytics Suite](./08-iTrack-Operations-Health-Metrics/Case-Study.md)**  
+  *Architected and deployed iTrack, a near real-time operational health platform using Tableau Server on a Tech-managed, read-only staging database. Tracks incoming volumes, backlog aging (<24h to >72h), FTE productivity, and volume trends, with a self-service raw data export portal for instant floor-level root-cause analysis.* <br>
+  `Tableau Server` • `Read-Only Staging Platform` • `Telemetry Analytics` • `Productivity Stack-Ranking` • `SLA Aging Triage` • `Raw Data Exporter`
+  
