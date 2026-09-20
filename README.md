@@ -54,8 +54,4 @@
 ### Key Project Case Studies:
 * ⚙️ **[CCOR 2LOD M&T Intelligent Automation & Audit Analytics Control Ecosystem](./06-CCOR-2LOD-Intelligent-Automation-Ecosystem/Case-Study.md)**  
   *Architected a multi-source Alteryx ETL and 5-tab Tableau Executive Control Suite to ring-fence the full IA Automation and Analytics Book of Work for CCOR 2LOD M&T India. Standardised JIRA tracking, deployed predictive developer capacity modelling, migrated legacy assets to Tableau Server, and enforced 100% Firmwide IS registration and artifact compliance.* <br>
-`Alteryx` • `Tableau Server` • `JIRA API` • `Firmwide IS Governance` • `Capacity Planning` • `Jaro-Winkler Fuzzy Matching`
-
----
-
----
+  `Alteryx` • `Tableau Server` • `JIRA API` • `Firmwide IS Governance` • `Capacity Planning` • `Jaro-Winkler Fuzzy Matching`
