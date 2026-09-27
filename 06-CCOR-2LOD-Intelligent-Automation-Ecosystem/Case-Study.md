@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)**
+
 # ⚙️ Project 06: Intelligent Automation & Audit Analytics Control Ecosystem - CCOR 2LOD M&T India
 
 ## Executive Summary
@@ -139,4 +141,6 @@ To resolve these challenges, a multi-source automated governance ecosystem was e
 * **Enterprise Scaling:** Applied prior experience managing 800+ applications from WPO to establish robust, audit-ready governance across a newly formed 2LOD M&T India team.
 * **T-Shaped Execution:** Combined high-level strategic alignment (stakeholder management, IS compliance, capacity planning) with deep technical execution (Alteryx ETL, JIRA integration, Tableau architecture).
 
+---
 
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)**
