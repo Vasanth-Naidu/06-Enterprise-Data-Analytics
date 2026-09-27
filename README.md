@@ -13,7 +13,7 @@
 ## 1. Operational Challenge & Scope:
 
 * **Data Fragmentation Across Siloed DBs:** Key performance indicators, developer velocity, and compliance metrics were trapped across disconnected sources (JIRA APIs, central SQL databases, static Excel extracts, and telephony dumps).
-* **Lack of Predictive Capacity Modeling:** Leadership lacked visibility into team bandwidth, developer burn rates, and resource bottlenecks, resulting in inaccurate project timeline projections.
+* **Lack of Predictive Capacity Modelling:** Leadership lacked visibility into team bandwidth, developer burn rates, and resource bottlenecks, resulting in inaccurate project timeline projections.
 * **Manual Executive Reporting Overhead:** Team leads spent significant weekly hours manually collating spreadsheets to produce RAG (Red/Amber/Green) status updates for executive reviews.
 
 ---
@@ -22,7 +22,7 @@
 
 1. **Multi-Source ETL Pipeline (Alteryx & Direct SQL):** Engineered automated Alteryx workflows ingesting JIRA post analytics, relational database extracts, and central control logs—performing fuzzy matching, timestamp delta analytics, and data cleansing.
 2. **Tableau Executive Control Suite Build:** Architected multi-tab Tableau dashboards providing drill-down visibility from macro-level enterprise burndowns to micro-level task statuses.
-3. **Predictive Capacity & Velocity Modeling:** Modeled weekly sprint velocity and burndown curves to project completion dates dynamically against firmwide deadlines.
+3. **Predictive Capacity & Velocity Modelling:** Modelled weekly sprint velocity and burndown curves to project completion dates dynamically against firmwide deadlines.
 4. **Automated Lineage & Risk Triage:** Implemented anomaly detection logic within ETL layers to automatically flag missing artifacts, broken entity linkages, and overdue compliance items.
 
 ---
@@ -40,7 +40,7 @@
 | 📌 STRATEGIC PILLAR | 🛠️ OPERATIONAL & TECHNICAL ENABLEMENT IMPACT | 🎯 BUSINESS & FINANCIAL OUTCOME |
 | :--- | :--- | :--- |
 | **ETL Automation** | Replaced manual spreadsheet collation with automated Alteryx direct SQL pipelines. | **90%+ reduction in reporting lead time**, delivering real-time metric updates. |
-| **Capacity Planning** | Deployed predictive burndown and velocity forecasting models. | **Optimized developer allocation** and improved project delivery predictability. |
+| **Capacity Planning** | Deployed predictive burndown and velocity forecasting models. | **Optimised developer allocation** and improved project delivery predictability. |
 | **Executive Visibility** | Implemented interactive Tableau Server RAG dashboards with RBAC security. | **Empowered C-suite decision-making** with audit-proof operational health tracking. |
 
 ---
@@ -48,7 +48,7 @@
 ## 5. Key Competencies Demonstrated:
 
 * **Enterprise BI Architecture:** Building scalable Tableau dashboards and Alteryx ETL pipelines connected to enterprise SQL/API endpoints.
-* **Predictive Data Modeling:** Utilizing statistical time-series and velocity forecasting algorithms for operational decision-making.
+* **Predictive Data Modelling:** Utilising statistical time-series and velocity forecasting algorithms for operational decision-making.
 * **Executive Data Storytelling:** Designing intuitive RAG control suites that translate complex technical data into actionable executive insights.
 
 ---
@@ -59,6 +59,9 @@
   `Alteryx` • `Tableau Server` • `JIRA API` • `Firmwide IS Governance` • `Capacity Planning` • `Jaro-Winkler Fuzzy Matching`
 
 * 📈 **[Project 08: iTrack — Near Real-Time Operational Health & Productivity Analytics Suite](./08-iTrack-Operations-Health-Metrics/Case-Study.md)**  
-  *Architected and deployed iTrack, a near real-time operational health platform using Tableau Server on a Tech-managed, read-only staging database. Tracks incoming volumes, backlog aging (<24h to >72h), FTE productivity, and volume trends, with a self-service raw data export portal for instant floor-level root-cause analysis.* <br>
+  *Architected and deployed iTrack, a near real-time operational health platform using Tableau Server on a Tech-managed, read-only staging database. Tracks incoming volumes, backlog ageing (<24h to >72h), FTE productivity, and volume trends, with a self-service raw data export portal for instant floor-level root-cause analysis.* <br>
   `Tableau Server` • `Read-Only Staging Platform` • `Telemetry Analytics` • `Productivity Stack-Ranking` • `SLA Aging Triage` • `Raw Data Exporter`
-  
+
+---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)** 
