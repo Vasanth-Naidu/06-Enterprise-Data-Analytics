@@ -1,4 +1,6 @@
-# Case Study: iTrack — Near Real-Time Operational Health & Productivity Analytics Suite
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)**
+
+# 🖥️ Case Study: iTrack — Near Real-Time Operational Health & Productivity Analytics Suite
 
 ## Executive Overview:
 * **Enterprise Context:** Enterprise Financial & Operations Technology (Cross-Company Deployment)
@@ -116,3 +118,5 @@ Designed from the perspective of Operations Managers, Team Leads, and C-Suite Ex
 * **Self-Service BI Enablement:** Democratising raw data access for operational leads to perform independent root-cause analysis without technical dependencies.
 
 ---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)**   |   **[↩️ Back to Repository](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)**
