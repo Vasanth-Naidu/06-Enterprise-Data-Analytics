@@ -1,3 +1,5 @@
+**[🏠 Home](https://github.com/Vasanth-Naidu)** 
+
 # Portfolio Module 06: Enterprise Data Analytics & Executive Dashboards (Cross-Company)
 
 ## Executive Summary:
